@@ -1,0 +1,167 @@
+<style class="text/css">caption {font-size: 12pt;text-align:left;font-weight: bold;}tfoot td { text-align:left; }tbody td { text-align:right; }</style>
+<table class="ApartNum Cols5">
+<caption><p><br />Població a 1 de gener. 2020<br />Per sexe i grups d'edat<br /></p></caption><tfoot>
+  <tr>
+    <td colspan="5">Font: Idescat. Estimacions de població.</td>
+  </tr>
+  <tr>
+    <td colspan="5">(p) Dades provisionals.</td>
+  </tr>
+</tr><tr><td></td></tr></tfoot>
+<tbody>
+<tr class="cap">
+<th></th>
+<th scope="col" style="text-align:right">Homes</th>
+<th scope="col" style="text-align:right">Dones</th>
+<th scope="col" style="text-align:right">Total</th>
+</tr>
+<tr class="primera">
+<th style="font-weight:normal;text-align:left" scope="row">De 0 a 4 anys</th>
+<td style="font-weight:normal;text-align:right">177.639</td>
+<td style="font-weight:normal;text-align:right">168.224</td>
+<td style="font-weight:bold;text-align:right">345.863</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 5 a 9 anys</th>
+<td style="font-weight:normal;text-align:right">207.060</td>
+<td style="font-weight:normal;text-align:right">194.449</td>
+<td style="font-weight:bold;text-align:right">401.509</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 10 a 14 anys</th>
+<td style="font-weight:normal;text-align:right">223.267</td>
+<td style="font-weight:normal;text-align:right">208.376</td>
+<td style="font-weight:bold;text-align:right">431.643</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 15 a 19 anys</th>
+<td style="font-weight:normal;text-align:right">210.527</td>
+<td style="font-weight:normal;text-align:right">193.260</td>
+<td style="font-weight:bold;text-align:right">403.787</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 20 a 24 anys</th>
+<td style="font-weight:normal;text-align:right">205.008</td>
+<td style="font-weight:normal;text-align:right">191.087</td>
+<td style="font-weight:bold;text-align:right">396.095</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 25 a 29 anys</th>
+<td style="font-weight:normal;text-align:right">221.110</td>
+<td style="font-weight:normal;text-align:right">216.044</td>
+<td style="font-weight:bold;text-align:right">437.154</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 30 a 34 anys</th>
+<td style="font-weight:normal;text-align:right">231.001</td>
+<td style="font-weight:normal;text-align:right">235.104</td>
+<td style="font-weight:bold;text-align:right">466.105</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 35 a 39 anys</th>
+<td style="font-weight:normal;text-align:right">270.896</td>
+<td style="font-weight:normal;text-align:right">274.488</td>
+<td style="font-weight:bold;text-align:right">545.384</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 40 a 44 anys </th>
+<td style="font-weight:normal;text-align:right">334.557</td>
+<td style="font-weight:normal;text-align:right">325.651</td>
+<td style="font-weight:bold;text-align:right">660.208</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 45 a 49 anys</th>
+<td style="font-weight:normal;text-align:right">324.031</td>
+<td style="font-weight:normal;text-align:right">313.261</td>
+<td style="font-weight:bold;text-align:right">637.292</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 50 a 54 anys</th>
+<td style="font-weight:normal;text-align:right">287.566</td>
+<td style="font-weight:normal;text-align:right">284.987</td>
+<td style="font-weight:bold;text-align:right">572.553</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 55 a 59 anys</th>
+<td style="font-weight:normal;text-align:right">250.527</td>
+<td style="font-weight:normal;text-align:right">260.932</td>
+<td style="font-weight:bold;text-align:right">511.459</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 60 a 64 anys</th>
+<td style="font-weight:normal;text-align:right">215.143</td>
+<td style="font-weight:normal;text-align:right">233.853</td>
+<td style="font-weight:bold;text-align:right">448.996</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 65 a 69 anys</th>
+<td style="font-weight:normal;text-align:right">180.096</td>
+<td style="font-weight:normal;text-align:right">203.401</td>
+<td style="font-weight:bold;text-align:right">383.497</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 70 a 74 anys</th>
+<td style="font-weight:normal;text-align:right">162.768</td>
+<td style="font-weight:normal;text-align:right">192.772</td>
+<td style="font-weight:bold;text-align:right">355.540</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 75 a 79 anys</th>
+<td style="font-weight:normal;text-align:right">122.915</td>
+<td style="font-weight:normal;text-align:right">154.620</td>
+<td style="font-weight:bold;text-align:right">277.535</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 80 a 84 anys</th>
+<td style="font-weight:normal;text-align:right">80.110</td>
+<td style="font-weight:normal;text-align:right">116.790</td>
+<td style="font-weight:bold;text-align:right">196.900</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 85 a 89 anys</th>
+<td style="font-weight:normal;text-align:right">57.131</td>
+<td style="font-weight:normal;text-align:right">101.209</td>
+<td style="font-weight:bold;text-align:right">158.340</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 90 a 94 anys</th>
+<td style="font-weight:normal;text-align:right">21.473</td>
+<td style="font-weight:normal;text-align:right">49.781</td>
+<td style="font-weight:bold;text-align:right">71.254</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">De 95 anys i més</th>
+<td style="font-weight:normal;text-align:right">4.859</td>
+<td style="font-weight:normal;text-align:right">16.230</td>
+<td style="font-weight:bold;text-align:right">21.089</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class="darrera total">
+<th style="font-weight:bold;text-align:left" scope="row">Total</th>
+<td style="font-weight:bold;text-align:right">3.787.684</td>
+<td style="font-weight:bold;text-align:right">3.934.519</td>
+<td style="font-weight:bold;text-align:right">7.722.203</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<br />Institut d'Estadística de Catalunya<br /> <a href="https://www.idescat.cat/pub/aec/253">https://www.idescat.cat/pub/aec/253</a>
