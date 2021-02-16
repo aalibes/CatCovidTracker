@@ -17,7 +17,8 @@ Population data is taken from the [Statistical Institute of Catalonia](http://ww
 ### New Cases / ICU patients / deaths
 ![Plot4](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentCasesICUDeathsCat.png)
 
-
+### Vaccination vs Hospital occupancy
+![Plot5](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/HospitalVSVaccinationCat.png)
 
 ### Support or Contact
 
