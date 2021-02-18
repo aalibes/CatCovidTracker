@@ -1,14 +1,14 @@
 ## Catalan Covid19 Vaccination Tracker
 
-**Goal**: Observe the effect of vaccination on the overall well-being of Catalonia. 
+**Goal**: Observe the effect of vaccination on the overall well-being of the Catalan population. 
 
-**How**: Tracking the expected acceleration rate of vaccination and see if it (hopefully) anticorrelates with the number of cases and hospitalizations
+**How**: Tracking the expected acceleration rate of vaccination and see if it (hopefully) anticorrelates with the number of cases and hospitalizations.
 
 **Since** Day of first vaccination: 2020-12-27
 
 **It is not**: A website to track the virus evolution since the first detected cases. 
 
-**Because**: There are many excellent websites for that. Worldwide tracking [Our World in Data](https://ourworldindata.org/coronavirus) and Catalan tracking [BIOCOMSC](https://biocomsc.upc.edu/en/covid-19/catalonia-covid-abs-eng)
+**Because**: There are many excellent websites for that. Worldwide tracking [Our World in Data](https://ourworldindata.org/coronavirus) and Catalan tracking [BIOCOMSC](https://biocomsc.upc.edu/en/covid-19/catalonia-covid-abs-eng).
 
 ***Data***:
 
