@@ -2,7 +2,7 @@
 
 **Goal**: Observe the effect of vaccination on the overall well-being of the Catalan population. 
 
-**How**: Tracking the expected acceleration rate of vaccination and see if it (hopefully) anticorrelates with the number of cases and hospitalizations.
+**How**: Tracking the expected acceleration on the rate of vaccination and see if it (hopefully) anticorrelates with the number of cases and hospitalizations.
 
 **Since** Day of first vaccination: 2020-12-27
 
