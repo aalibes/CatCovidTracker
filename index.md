@@ -1,8 +1,20 @@
-## Welcome to the Catalan Covid19 Vaccination Tracker
+## Catalan Covid19 Vaccination Tracker
 
-Covid-19 data is taken from the [Covid-19 data repository from the Catalan Department of Health](https://dadescovid.cat/descarregues)
+**Goal**: Observe the effect of vaccination on the overall well-being of Catalonia. 
 
-Population data is taken from the [Statistical Institute of Catalonia](http://www.idescat.cat)
+**How**: Tracking the expected acceleration rate of vaccination and see if it (hopefully) anticorrelates with the number of cases and hospitalizations
+
+**Since** Day of first vaccination: 2020-12-27
+
+**It is not**: A website to track the virus evolution since the first detected cases. 
+
+**Because**: There are many excellent websites for that. Worldwide tracking [Our World in Data](https://ourworldindata.org/coronavirus) and Catalan tracking [BIOCOMSC](https://biocomsc.upc.edu/en/covid-19/catalonia-covid-abs-eng)
+
+***Data***:
+
+- Covid-19 data is taken from the [Covid-19 data repository from the Catalan Department of Health](https://dadescovid.cat/descarregues)
+
+- Population data is taken from the [Statistical Institute of Catalonia](http://www.idescat.cat)
 
 
 ### Overall trend
