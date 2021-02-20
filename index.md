@@ -16,12 +16,17 @@
 
 - Population data is taken from the [Statistical Institute of Catalonia](http://www.idescat.cat)
 
+- Shapfile map from [Department of Health](https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/)
+
 
 ### Overall trend
 ![Plot1](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentOverallVaccinationCat.png)
 
 ### Age dependent trend
 ![Plot2](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentByAgeVaccinationCat.png)
+
+### Region data
+![Plot3a](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/MapCurrentRegionVaccinationCat.png)
 
 ### Region dependent trend
 ![Plot3](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentRegionVaccinationCat.png)
