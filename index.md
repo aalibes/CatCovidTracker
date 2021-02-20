@@ -16,7 +16,7 @@
 
 - Population data is taken from the [Statistical Institute of Catalonia](http://www.idescat.cat)
 
-- Shapfile map from [Department of Health](https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/)
+- Shapefile map from [Department of Health](https://salutweb.gencat.cat/ca/el_departament/estadistiques_sanitaries/cartografia/)
 
 
 ### Overall trend
