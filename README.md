@@ -1,9 +1,15 @@
 # CatCovidTracker
+
 Tracking Covid-19 vaccination in the Catalan population.
 
-The code uses the latest data from the Catalan Department of Health
+The code uses the latest vaccination data from the Catalan Department of Health and population data from the Statistical Institute of Catalonia 
 
-Work in progress:
-Done - Add map showing vaccination rates by Catalan Health Region
+Python libraries:
+- pandas
+- geopandas
+- matplotlib
+- numpy
+- seaborn
 
-- Do some modelling. About???
+ToDo:
+- Add modelling
