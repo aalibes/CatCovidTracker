@@ -43,6 +43,9 @@ Reasons for non-vaccination include: personal rejection, medical reason and pers
 ### Vaccination vs Hospital occupancy
 ![Plot5](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/HospitalVSVaccinationCat.png)
 
+### Vaccine producers
+![Plot6](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/VaccineProducer.png)
+
 ### Support or Contact
 
 Questions? [contact support](mailto:aalibes@gmail.com) 
