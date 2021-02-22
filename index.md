@@ -31,6 +31,12 @@
 ### Region dependent trend
 ![Plot3](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentRegionVaccinationCat.png)
 
+### Region vaccine rejection rate
+
+Reasons for non-vaccination include: personal rejection, medical reason and person recovered from Covid-19  
+
+![PlotReject](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/MapCurrentRegionRejectionCat.png)
+
 ### New Cases / ICU patients / deaths
 ![Plot4](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentCasesICUDeathsCat.png)
 
