@@ -27,9 +27,9 @@ Almost complete vaccination:
 - Health and socio-health staff working in nursing homes for the elderly and disabled.
 
 Vaccination going on:
-- Dependent elderly people
-- Transplanted people and those on the waiting list for transplantation .
-- People over 80 years .
+- Dependent elderly people.
+- Transplanted people and those on the waiting list for transplantation.
+- People over 80 years.
 - Professionals under the age of 56 and without any pathology, who have not passed COVID-19 in the last six months, who are active and work in person in contact with patients:  physiotherapists, pharmacists and office assistants. pharmacy, clinical psychologists, occupational therapists, opticians, optometrists, dental prosthetists, speech therapists, veterinarians, nutritionists, podiatrists and health students.
 - All school staff.
 - Professionals working in public services considered essential, such as Mossos d'Esquadra, local police, prison service professionals, Guàrdia Urbana, civil protection, Home Help professionals and firefighters .
