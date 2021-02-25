@@ -1,3 +1,5 @@
+title: CatCovidTracker
+description: Tracking Covid-19 vaccination in the Catalan population. <a href="https://twitter.com/CatCovidTracker"><img src="twitter.png" width=50, height=50><<small>Follow us on</small> Twitter</a>
 theme: jekyll-theme-architect
 google_analytics: G-M0V8JFD541
 show_downloads: false
