@@ -3,3 +3,4 @@
 *.zip
 shapefile/
 data/
+PARAMETERS.py

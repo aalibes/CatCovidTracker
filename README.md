@@ -13,4 +13,5 @@ Python libraries:
 
 ToDo:
 - Add modelling
-- Create twitter bot that posts updates
+- Do animations
++ Create twitter bot that posts updates
