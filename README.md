@@ -12,6 +12,6 @@ Python libraries:
 - seaborn
 
 ToDo:
-- Add modelling
+- Add modelling: Projected rejection rate 
 - Do animations
 + Create twitter bot that posts updates
