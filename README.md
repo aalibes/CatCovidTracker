@@ -14,4 +14,5 @@ Python libraries:
 ToDo:
 - Add modelling: Projected rejection rate 
 - Do animations
+- Add day of 70% fully vaccinated population, with margins of error
 + Create twitter bot that posts updates
