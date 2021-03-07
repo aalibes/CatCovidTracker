@@ -42,11 +42,7 @@ Source: [link](https://canalsalut.gencat.cat/ca/salut-a-z/v/vacuna-covid-19/ciut
 ### Region data
 ![Plot3a](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/MapCurrentRegionVaccinationCat.png)
 
-### Region dependent trend
-![Plot3](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentRegionVaccinationCat.png)
-
 ### Region vaccine rejection rate
-
 Reasons for non-vaccination include: personal rejection, medical reason and person recovered from Covid-19  
 
 ![PlotReject](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/MapCurrentRegionRejectionCat.png)
@@ -59,6 +55,8 @@ Reasons for non-vaccination include: personal rejection, medical reason and pers
 
 ### Vaccine producers
 ![Plot6](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/VaccineProducer.png)
+
+![Plot7](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/VaccineProducerByDate.png)
 
 ### Support or Contact
 
