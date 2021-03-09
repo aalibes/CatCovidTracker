@@ -4,3 +4,7 @@
 shapefile/
 data/
 PARAMETERS.py
+__pycache__/
+*.pyc
+jpg/
+
