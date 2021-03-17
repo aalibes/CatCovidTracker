@@ -12,7 +12,7 @@ Python libraries:
 - seaborn
 
 ToDo:
+- Add vaccines vs cases per age/ vaccines vs hospitals per age.
 - Add modelling: Projected rejection rate 
 - Do animations
-- Add day of 70% fully vaccinated population, with margins of error
-+ Create twitter bot that posts updates
+
