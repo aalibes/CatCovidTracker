@@ -36,6 +36,10 @@ Vaccination going on:
 
 Source: [link](https://canalsalut.gencat.cat/ca/salut-a-z/v/vacuna-covid-19/ciutadania/index.html)
 
+### 14-day Incidence rate
+![PlotIA14](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/IA14days.png)
+
+
 ### Age dependent trend
 ![Plot2](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentByAgeVaccinationCat.png)
 
