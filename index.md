@@ -24,31 +24,21 @@
 
 Calls for citizens:
 
--People born between 1962 and 1971
-
--People born between 1952 and 1961
-
--People born between 1942 and 1951
-
--People born in 1941 or earlier
-
--Essential professionals
-
--Transplanted people
-
--Dependent people
-
--Elderly and disabled people living in residences
+- People born between 1962 and 1971
+- People born between 1952 and 1961
+- People born between 1942 and 1951
+- People born in 1941 or earlier
+- Essential professionals
+- Transplanted people
+- Dependent people
+- Elderly and disabled people living in residences
 
 Calls for professionals:
 
--Health and social and health personnel
-
--Essential professionals
-
--Health and socio-health staff working in nursing homes for the elderly and disabled
-
--First-line health and socio-health staff
+- Health and social and health personnel
+- Essential professionals
+- Health and socio-health staff working in nursing homes for the elderly and disabled
+- First-line health and socio-health staff
 
 Source: [link](https://canalsalut.gencat.cat/ca/salut-a-z/v/vacuna-covid-19/convocatoria/index.html)
 
