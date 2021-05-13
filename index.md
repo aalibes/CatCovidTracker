@@ -22,19 +22,23 @@
 ### Overall trend
 ![Plot1](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/CurrentOverallVaccinationCat.png)
 
-Almost complete vaccination:
-- Residences for the elderly and disabled.
-- Health and socio-health staff working in nursing homes for the elderly and disabled.
+Calls for citizens:
+-People born between 1962 and 1971
+-People born between 1952 and 1961
+-People born between 1942 and 1951
+-People born in 1941 or earlier
+-Essential professionals
+-Transplanted people
+-Dependent people
+-Elderly and disabled people living in residences
 
-Vaccination going on:
-- Dependent elderly people.
-- Transplanted people and those on the waiting list for transplantation.
-- People over 80 years.
-- Professionals under the age of 56 and without any pathology, who have not passed COVID-19 in the last six months, who are active and work in person in contact with patients:  physiotherapists, pharmacists and office assistants. pharmacy, clinical psychologists, occupational therapists, opticians, optometrists, dental prosthetists, speech therapists, veterinarians, nutritionists, podiatrists and health students.
-- All school staff.
-- Professionals working in public services considered essential, such as Mossos d'Esquadra, local police, prison service professionals, Guàrdia Urbana, civil protection, Home Help professionals and firefighters .
+Calls for professionals:
+-Health and social and health personnel
+-Essential professionals
+-Health and socio-health staff working in nursing homes for the elderly and disabled
+-First-line health and socio-health staff
 
-Source: [link](https://canalsalut.gencat.cat/ca/salut-a-z/v/vacuna-covid-19/ciutadania/index.html)
+Source: [link](https://canalsalut.gencat.cat/ca/salut-a-z/v/vacuna-covid-19/convocatoria/index.html)
 
 ### 14-day Incidence rate
 ![PlotIA14](https://raw.githubusercontent.com/aalibes/CatCovidTracker/main/IA14days.png)
