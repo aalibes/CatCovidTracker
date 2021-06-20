@@ -24,11 +24,7 @@
 
 Calls for citizens:
 
-- People born between 1972 and 1981
-- People born between 1962 and 1971
-- People born between 1952 and 1961
-- People born between 1942 and 1951
-- People born in 1941 or earlier
+- People born before 1986 (included)
 - Essential professionals
 - Transplanted people
 - Dependent people
