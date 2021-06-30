@@ -24,7 +24,7 @@
 
 Calls for citizens:
 
-- People born before 1991 (included)
+- People born before 2005 (included)
 - Essential professionals
 - Transplanted people
 - Dependent people
