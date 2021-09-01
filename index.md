@@ -24,7 +24,7 @@
 
 Calls for citizens:
 
-- People 12 and older
+- People aged 12 and older
 - Essential professionals
 - Transplanted people
 - Dependent people
